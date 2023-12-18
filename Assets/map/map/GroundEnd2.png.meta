@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 26ee225ee9521d945b92911ce6b13e48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6028776799081883894
+    second: GroundEnd2_0
+  - first:
+      213: 6496748418630565161
+    second: GroundEnd2_1
+  - first:
+      213: -1669864722452331202
+    second: GroundEnd2_2
+  - first:
+      213: 8391433865205722054
+    second: GroundEnd2_3
+  - first:
+      213: 841573240553182981
+    second: GroundEnd2_4
+  - first:
+      213: -906723520674656668
+    second: GroundEnd2_5
+  - first:
+      213: -6698392729707824081
+    second: GroundEnd2_6
+  - first:
+      213: 5103065160366941550
+    second: GroundEnd2_7
+  - first:
+      213: -4714651114233843734
+    second: GroundEnd2_8
+  - first:
+      213: 1829206646152569828
+    second: GroundEnd2_9
+  - first:
+      213: -7144394236720694471
+    second: GroundEnd2_10
+  - first:
+      213: -8573470288393272148
+    second: GroundEnd2_11
+  - first:
+      213: 2756666641952143429
+    second: GroundEnd2_12
+  - first:
+      213: 94714823721592710
+    second: GroundEnd2_13
+  - first:
+      213: 315485405736137810
+    second: GroundEnd2_14
+  - first:
+      213: 8644844632133078463
+    second: GroundEnd2_15
+  - first:
+      213: -7485460175677417710
+    second: GroundEnd2_16
+  - first:
+      213: -4870163236109452261
+    second: GroundEnd2_17
+  - first:
+      213: 118040151741793373
+    second: GroundEnd2_18
+  - first:
+      213: 5865842852608324209
+    second: GroundEnd2_19
+  - first:
+      213: 5714711875860041384
+    second: GroundEnd2_20
+  - first:
+      213: 7195074070090898874
+    second: GroundEnd2_21
+  - first:
+      213: 1554825665215233052
+    second: GroundEnd2_22
+  - first:
+      213: -8632732825262292956
+    second: GroundEnd2_23
+  - first:
+      213: 3092807398978222233
+    second: GroundEnd2_24
+  - first:
+      213: -4224884976816373676
+    second: GroundEnd2_25
+  - first:
+      213: 1981438326823980578
+    second: GroundEnd2_26
+  - first:
+      213: -7213736264434584509
+    second: GroundEnd2_27
+  - first:
+      213: 1354296804713721487
+    second: GroundEnd2_28
+  - first:
+      213: -4445125227673544310
+    second: GroundEnd2_29
+  - first:
+      213: -4984869876419206865
+    second: GroundEnd2_30
+  - first:
+      213: 6264621089299459906
+    second: GroundEnd2_31
+  - first:
+      213: 6337495466315127427
+    second: GroundEnd2_32
+  - first:
+      213: -6691966287362667298
+    second: GroundEnd2_33
+  - first:
+      213: -5314187794294754215
+    second: GroundEnd2_34
+  - first:
+      213: -8307740658001804993
+    second: GroundEnd2_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundEnd2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079b9c617b755ca0800000000000000
+      internalID: -6028776799081883894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3e87f346192a50800000000000000
+      internalID: 6496748418630565161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c54bd1e273d8e0800000000000000
+      internalID: -1669864722452331202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb25c304ac547470800000000000000
+      internalID: 8391433865205722054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50795a7476eddab00800000000000000
+      internalID: 841573240553182981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e02b013cbaa63f0800000000000000
+      internalID: -906723520674656668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb4bb4d478a03a0800000000000000
+      internalID: -6698392729707824081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e755e9bab1d640800000000000000
+      internalID: 5103065160366941550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef21387ac1329eb0800000000000000
+      internalID: -4714651114233843734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e325bcc0c5a26910800000000000000
+      internalID: 1829206646152569828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3ae85b430adc90800000000000000
+      internalID: -7144394236720694471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca404f7623ae40980800000000000000
+      internalID: -8573470288393272148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f9b594b5a14620800000000000000
+      internalID: 2756666641952143429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a3ee51ae705100800000000000000
+      internalID: 94714823721592710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f8b41e44d06400800000000000000
+      internalID: 315485405736137810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd0cbcf368a8f770800000000000000
+      internalID: 8644844632133078463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2171a6041ad4e1890800000000000000
+      internalID: -7485460175677417710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c77890754b96cb0800000000000000
+      internalID: -4870163236109452261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548dc184ec53a100800000000000000
+      internalID: 118040151741793373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172bbf1fef8a76150800000000000000
+      internalID: 5865842852608324209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae085a5c2cbe4f40800000000000000
+      internalID: 5714711875860041384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5460eeb90ad360800000000000000
+      internalID: 7195074070090898874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c70d664b9d39510800000000000000
+      internalID: 1554825665215233052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420036dcb3f523880800000000000000
+      internalID: -8632732825262292956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998fbc661fbdbea20800000000000000
+      internalID: 3092807398978222233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c9fb7f713e55c0800000000000000
+      internalID: -4224884976816373676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e00bef8ab7f7b10800000000000000
+      internalID: 1981438326823980578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f5076619a3eb90800000000000000
+      internalID: -7213736264434584509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e686db4cd6bc210800000000000000
+      internalID: 1354296804713721487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89146e182ebf42c0800000000000000
+      internalID: -4445125227673544310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ec74224f22dab0800000000000000
+      internalID: -4984869876419206865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6d1870b760f650800000000000000
+      internalID: 6264621089299459906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9c539c8e43f750800000000000000
+      internalID: 6337495466315127427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edccbd00e1c5123a0800000000000000
+      internalID: -6691966287362667298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954385b5b563046b0800000000000000
+      internalID: -5314187794294754215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundEnd2_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318bb943e9f4bc80800000000000000
+      internalID: -8307740658001804993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroundEnd2_0: -6028776799081883894
+      GroundEnd2_1: 6496748418630565161
+      GroundEnd2_10: -7144394236720694471
+      GroundEnd2_11: -8573470288393272148
+      GroundEnd2_12: 2756666641952143429
+      GroundEnd2_13: 94714823721592710
+      GroundEnd2_14: 315485405736137810
+      GroundEnd2_15: 8644844632133078463
+      GroundEnd2_16: -7485460175677417710
+      GroundEnd2_17: -4870163236109452261
+      GroundEnd2_18: 118040151741793373
+      GroundEnd2_19: 5865842852608324209
+      GroundEnd2_2: -1669864722452331202
+      GroundEnd2_20: 5714711875860041384
+      GroundEnd2_21: 7195074070090898874
+      GroundEnd2_22: 1554825665215233052
+      GroundEnd2_23: -8632732825262292956
+      GroundEnd2_24: 3092807398978222233
+      GroundEnd2_25: -4224884976816373676
+      GroundEnd2_26: 1981438326823980578
+      GroundEnd2_27: -7213736264434584509
+      GroundEnd2_28: 1354296804713721487
+      GroundEnd2_29: -4445125227673544310
+      GroundEnd2_3: 8391433865205722054
+      GroundEnd2_30: -4984869876419206865
+      GroundEnd2_31: 6264621089299459906
+      GroundEnd2_32: 6337495466315127427
+      GroundEnd2_33: -6691966287362667298
+      GroundEnd2_34: -5314187794294754215
+      GroundEnd2_35: -8307740658001804993
+      GroundEnd2_4: 841573240553182981
+      GroundEnd2_5: -906723520674656668
+      GroundEnd2_6: -6698392729707824081
+      GroundEnd2_7: 5103065160366941550
+      GroundEnd2_8: -4714651114233843734
+      GroundEnd2_9: 1829206646152569828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
