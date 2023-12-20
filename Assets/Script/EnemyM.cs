@@ -32,7 +32,7 @@ public class EnemyM : MonoBehaviour
     private void Update()
     {
         float distance = Vector2.Distance(transform.position, player.position);
-        if(distance > Patrolling)
+        if (distance > Patrolling)
         {
             speed = 0;
             animator.SetBool("IsWalk", false);
